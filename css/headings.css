@@ -1,0 +1,57 @@
+@charset "utf-8";
+.BM_headings {
+    color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+}
+.BM_bodys {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: small;
+    font-weight: normal;
+}
+.BM_headings2 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: x-large;
+}
+.BM_links {
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: medium;
+}
+div.formRow {display: flex; flex-flow: row wrap; margin: 7px 0px;
+}
+.BM_tablelable {
+	text-align: right
+}
+.BM_Table1{
+	width:652px; 
+	height:auto;
+	border:solid;
+	align:center;
+}
+.BM_Table2{
+	width:252px; 
+	height:auto;
+	border:solid;
+}
+.BM_Center{
+	margin-right:30%;
+	margin-left: 30%;
+	text-align: center;
+}
+.BM_Table3{
+	 width:200px;
+	border:none;
+	text-align:center;
+		margin-right:30%;
+	margin-left: 30%;
+	text-align: center;
+}
